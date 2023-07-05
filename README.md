@@ -23,8 +23,10 @@ git clone https://github.com/calzu0821/note-taker.git
 ## Usage
 
 Users start by opening the application and accessing the notes page by clicking on 'Get Started'. On the notes page, existing notes are displayed in the left-hand column, and users can enter new note details in the right-hand column. After entering a note title and text, users can save it by clicking the Save icon. Saved notes appear in the left-hand column, and users can view, edit, and create new notes as needed. This application simplifies note-taking and helps users stay organized and focused on their tasks.
+ 
+Screenshot of Note Taker Application:
 
-Walkthrough Video: 
+![alt text](./public/assets/images/SS1.png) ![alt text](./public/assets/images/SS2.png) ![alt text](./public/assets/images/SS3.png) 
 
 ## Credits
 
